@@ -1,1 +1,2 @@
-package assignment_feb_18_and_19;
+//write a program to print Left Triangle Star pattern
+package assignment_feb14;
